@@ -1,5 +1,4 @@
-package i_introduction._0_Hello_World
-
+import i_introduction._0_Hello_World.task0
 import org.junit.Assert.assertEquals
 import org.junit.Test
 
